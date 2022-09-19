@@ -1,3 +1,3 @@
 # mv-resources
 
-Resources that are downloaded by the mvc command line tool to create new projects.
+General purpose resources, fetched in the "generate" command. Can be used in any project.
