@@ -1,9 +1,4 @@
-# FactoryIsland
+# Mv-Resources
 
-The actual logic for the game.
-
-All the code here relies on all the other external
-libraries coded in all the other repositories in the
-FactoryIsland github. The libraries provide this with
-the graphics, logging, authentication, and any other
-utilities for the game itself.
+Java renderer project resources, contains the library and pom.xml
+The setup is done by the mvc command line tool
